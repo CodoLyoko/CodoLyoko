@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cody Anderson</h1>
-<h3 align="center">A passionate Network developer from the United States</h3>
+<h3 align="center">A passionate soon to be Network developer from the United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codolyoko&label=Profile%20views&color=0e75b6&style=flat" alt="codolyoko" /> </p>
 
