@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on a **a simulated MiTM presentation**
 
-- 🌱 I’m currently learning Cisco Networking and building networks **Security+ & Cisco networking academy**
+- 🌱 I’m currently learning Cisco Networking and building networks **Comptia Security+ & Cisco networking academy**
 
 - 📫 How to reach me **buffalocodex@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGpN6IM4uU/piYRBHX93NY-3k_QSz6Q1A/edit](https://www.canva.com/design/DAGpN6IM4uU/piYRBHX93NY-3k_QSz6Q1A/edit)
 
-- ⚡ Fun fact **I golf**
+- ⚡ Fun fact **I also love to golf, and listen to lots of Music!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
